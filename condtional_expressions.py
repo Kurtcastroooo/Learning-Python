@@ -15,4 +15,3 @@ result = 'Even' if a % 2 == 0 else 'Odd'
 result = 'Full Access' if user_role == 'Admin' else f'Limit Access to {person}'
 
 print(result)
-
