@@ -1,4 +1,4 @@
-format specifiers = {:flags} format a value based on what flags are inserted
+# format specifiers = {:flags} format a value based on what flags are inserted
 
 # .(number)f = round to that many decimal places (fixed point)
 # :(number) = allocated that many spaces
