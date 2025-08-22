@@ -3,10 +3,10 @@
 #                    and = both conditions must be True
 #                    not = inverts the condition (not False, not True)
 
-
+temp = int(input('Enter the temperature: '))
 is_sunny = True
 is_raining = True
-temp = 34
+
 
 if is_sunny and temp > 37:
     print('It is hot outside 🔥')
