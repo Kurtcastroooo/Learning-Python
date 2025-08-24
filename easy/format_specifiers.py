@@ -12,3 +12,18 @@
 # , = use a comma as a thousand separator
 
 
+price_1 = 49.99123
+price_2 = -9.99
+price_3 = 1.5912312
+
+print(f"Price 1: $ {price_1:.2f}")
+print(f"Price 2: $ {price_2:.1f}")
+print(f"Price 3: $ {price_3:.2f}")
+
+print(f"Price 1: $ {price_1:<2f}")
+print(f"Price 2: $ {price_2:.1f}")
+print(f"Price 3: $ {price_3:.2f}")
+
+print(f"Price 1: $ {price_1:.2f}")
+print(f"Price 2: $ {price_2:.1f}")
+print(f"Price 3: $ {price_3:.2f}")
